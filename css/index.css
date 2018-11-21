@@ -1,0 +1,16 @@
+/*.calculator {
+	margin:auto;
+	padding: 10px;
+	background-color: grey;
+	width: 300px;
+	height: 200px;
+	text-align: center;
+}
+
+.calculator button {
+	background-color: lightgrey;
+}
+
+.calculator #result {
+	background-color: lightgrey;
+}*/
