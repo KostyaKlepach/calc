@@ -99,7 +99,7 @@ function quadratic(a, b, c) {
 		x1 = (-b) / (2*a);
 		return('x = '+x1)
 	}
-	else if (d < 0) {
+	else {
 		return('No answer, because D < 0');
 	}
 }
